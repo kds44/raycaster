@@ -15,6 +15,6 @@ How to Run
 
    /Users/YourName/Desktop/raycaster/raycaster
 
-5. Enjoy!
+4. Enjoy!
 
 ------------
